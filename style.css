@@ -369,13 +369,6 @@ a:nth-child(5){
       margin-left: 34rem;
   }
 
-  .class1{     
-    position:relative;    
-    width: 600px;     
-    height: 50px;    
-    border-radius: 8px;    
-    font-size: 0;}
-
   b{      
     line-height: 50px;    
     height: 100%;      
@@ -391,7 +384,14 @@ a:nth-child(5){
     justify-content: center;   
     margin-top: 20rem;
     margin-right: 27rem;
-  } 
+  }   
+  .class1{     
+    position:relative;    
+    width: 600px;     
+    height: 50px;    
+    border-radius: 8px;    
+    font-size: 0;}
+
     r{      
       line-height: 25px;    
       height: 5%;      
