@@ -376,6 +376,22 @@ a:nth-child(5){
     border-radius: 8px;    
     font-size: 0;}
 
+  b{      
+    line-height: 50px;    
+    height: 100%;      
+    font-size: 15px;    
+    display:flex;      
+    position: absolute;    
+    z-index: 1;      
+    text-decoration: none;    
+    text-transform: uppercase;      
+    text-align: center;    
+    color: #344955;      
+    cursor: pointer; 
+    justify-content: center;   
+    margin-top: 20rem;
+    margin-right: 27rem;
+  } 
     r{      
       line-height: 25px;    
       height: 5%;      
