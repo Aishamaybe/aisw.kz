@@ -370,17 +370,14 @@ a:nth-child(5){
     line-height: 50px;    
     height: 100%;      
     font-size: 15px;    
-    display:flex;      
-    position: absolute;    
+    display:inline-flex;      
+    position: relative;    
     z-index: 1;      
     text-decoration: none;    
     text-transform: uppercase;      
     text-align: center;    
-    color: #344955;      
+    color: #34495;      
     cursor: pointer; 
-    justify-content: center;   
-    margin-top: 20rem;
-    margin-right: 27rem;
   }   
   .class1{     
     position:relative;    
