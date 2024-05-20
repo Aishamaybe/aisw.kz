@@ -136,7 +136,6 @@ h3{
   font-size: 120px;
   color: #35374B;
   margin-top: -70px;
-  padding:5rem;
  }
 h4{
     font-family: "Sedan SC", serif;
@@ -144,6 +143,7 @@ h4{
   font-size: 30px;
   color: #35374B;
   margin-top: 60px;
+  padding:7rem;
 }
 h5{
     font-family: "Sedan SC", serif;
@@ -151,6 +151,7 @@ h5{
   font-size: 30px;
   color: #35374B;
   margin-top: 90px;
+  padding:7rem;
 }
 h6{
     font-family: "Sedan SC", serif;
@@ -158,6 +159,7 @@ h6{
   font-size: 30px;
   color: #35374B;
   margin-top: 120px;
+  padding:7rem;
 }
 .circle1{
     z-index: 1;  
